@@ -8,9 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I'm currently pursuing master of communication engineering in Xidian University.  
-    Coding C since 2018, C++ since 2023.  
-    Second prize winner of NUEDC 2023.
+    PrimedErwin
 
   # This photo will be used in the about section
   picture:
