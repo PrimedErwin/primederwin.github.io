@@ -53,6 +53,8 @@ menu:
 #    url:               /example/
   - title:             Coder
     url:               /coder/
+  - title:             Friends
+    url:               /coop/
 #  - title:             Documentation
 #    url:               /docs/
   - title:             About
