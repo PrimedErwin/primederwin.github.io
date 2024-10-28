@@ -12,3 +12,6 @@ redirect_from:
 
 <!--author-->
 
+I'm currently pursuing master of communication engineering in Xidian University.  
+Coding C since 2018, C++ since 2023.  
+Second prize winner of NUEDC 2023.
