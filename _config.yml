@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
- *Coding and life*
+ *Coding and life*  
 
 # A list of keywords for your blog
 keywords:              []
@@ -52,7 +52,7 @@ menu:
 #  - title:             Example
 #    url:               /example/
   - title:             Coder
-    url:               /Coder/
+    url:               /coder/
 #  - title:             Documentation
 #    url:               /docs/
   - title:             About
@@ -94,7 +94,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/mercedes-benz-maybach-exelero.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -406,14 +406,14 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path:  /assets/img/mercedes-benz-maybach-exelero.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path:  /assets/img/mercedes-benz-maybach-exelero.jpg
     projects:
       layout: project
       description: > 
