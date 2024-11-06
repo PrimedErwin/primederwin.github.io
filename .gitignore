@@ -3,6 +3,7 @@ _site
 _drafts
 build
 dist
+.obsidian
 
 # Numerous always-ignore extensions
 *.diff
